@@ -1,4 +1,4 @@
-# 💻 myFoodPalette - Supabase Select Hackathon Project
+#  🥙 myFoodPalette 🍽️ - Supabase Select Hackathon Project 
 
 > **myFoodPalette is a web app that helps users share and track their daily diet with family, friends, and their community**
 
