@@ -1,2 +1,57 @@
-# myFoodPalette
-Web application that allows you to share a list of foods that make up the bulk of your diet to friends/family so they know what to buy you if they are ordering food for you
+# 💻 myFoodPalette - Supabase Select Hackathon Project
+
+> **myFoodPalette is a web app that helps users share and track their daily diet with family, friends, and their community**
+
+<!-- ## ✨ Demo / Presentation
+
+| Resource | Link |
+| :--- | :--- |
+| **Live Demo** | [Link to your deployed application (e.g., Vercel, Netlify, Heroku)] |
+| **Presentation Deck** | [Link to your slide deck (e.g., Google Slides, Figma, etc.)] |
+| **Video Walkthrough** | [Link to a quick demo video if required by the hackathon] |
+
+---
+
+## 🚀 The Problem & The Solution
+
+### ⚠️ The Problem
+[Briefly explain the pain point, challenge, or need you decided to address. **Why does this matter?**]
+
+*Example: Many diet-sharing apps are complicated or overly focused on calorie counting, making it difficult for users to simply share the *diversity* and *quality* of their meals in a fun, social way.*
+
+### ✅ The Solution
+[Describe how your application solves the problem. **What is the core value proposition?**]
+
+*Example: myFoodPalette provides a simple, visual, and engaging platform for users to post photos of their meals, tag the main food groups, and receive encouraging feedback, turning diet tracking into a shared, colorful experience.*
+
+---
+
+## ⚙️ Technologies Used
+
+[List the main tools and frameworks you used. Use links where helpful!]
+
+* **Frontend:** [e.g., React, Vue.js, Next.js, HTML5, CSS3]
+* **Backend:** [e.g., Node.js, Express, Python/Django, Flask]
+* **Database:** [e.g., MongoDB, PostgreSQL, Firebase]
+* **Styling/UI:** [e.g., Tailwind CSS, Bootstrap, Styled Components]
+* **Deployment:** [e.g., Vercel, Netlify, Heroku]
+* **Other Tools:** [e.g., API used, State Management Library, Authentication Service]
+
+---
+
+## 🛠️ Installation & Setup
+
+Follow these steps to get a local copy of the project running:
+
+### Prerequisites
+
+You'll need the following installed on your machine:
+
+* **[Software Name]** (e.g., Node.js >= 18)
+* **[Software Name]** (e.g., npm or yarn)
+
+### 1. Clone the repository
+
+```bash
+git clone [Your GitHub Repo URL]
+cd [project-name] -->
